@@ -8,7 +8,7 @@ body {
 }
 
 .Cart-item{
-  display: inline-flex;
+  display: flex;
   margin: 20px 10px;
 }
 .cart-item .right-block{
