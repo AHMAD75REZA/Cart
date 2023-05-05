@@ -15,7 +15,7 @@ function handleInputchange(e){
 }
   return (
     <div className="App">
-      {/* <CartItem /> */}
+      <CartItem />
      <button onClick={showAlert}> show Alert</button>
 
      <input onChange={handleInputchange}/>
